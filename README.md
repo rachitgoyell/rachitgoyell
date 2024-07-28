@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachitgoyell. Right now, I am a newbie at programming exploring/
 - 👀 I’m interested in badminton, finance and entrepreneurship
 - 🌱 I’m currently exploring web development
-- 📫 How to reach me @boybiatch on X
+- 📫 How to reach me: @rachitgoyell on X
 - 😄 Pronouns: he/him
 
 <!---
